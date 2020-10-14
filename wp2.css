@@ -1,0 +1,89 @@
+body{
+
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+
+    background-color:rgb(214, 210, 210);
+}
+.banner-column{
+
+
+background-color: #545e69;
+}
+
+.navfix{
+top: 0;
+position: sticky!important;
+z-index: 2;
+}
+.about-container{
+
+    background-color: rgb(104, 98, 189);
+}
+.education-container{
+background-color: rgb(214, 210, 230 );
+
+}
+.redtype{
+    color: tomato;
+}
+.circletype{
+
+    background-color: tomato;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    color: white;
+}
+.project-container{
+
+    background-color: rgb(61, 84, 146);
+}
+.footer{
+
+    background-color: rgb(126, 123, 251);
+}
+
+.iconcircle{
+width: 60px;
+height: 60px;
+border-radius: 50%;
+background-color:white;
+margin: 15px 0;
+display: inline-block;
+font-size: 40px;
+text-align: center;
+color: rgb(126, 123, 251);
+}
+
+.iconcircle:hover{
+    background-color: rgb(105, 103, 103);
+}
+.form-container{
+
+    background-color: rgb(105, 103, 103);
+}
+
+.inner-form{
+background-color: rgb(139, 132, 132);
+
+
+}
+
+.text-button:hover{
+color: black!important;
+}
+
+.gallery-containerr{
+
+    background-color: rgb(14, 9, 9);
+}
+.boxx{
+ opacity: 0.5;
+    box-sizing: border-box;
+}
+.boxx:hover{
+    transition-delay: .3s;
+    opacity: 1;
+}
